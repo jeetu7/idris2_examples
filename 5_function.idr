@@ -1,6 +1,5 @@
 module Main
---import Data.List
---import Data.Vect
+import Data.List
 
 mySum : List Double -> Double
 mySum [] = 0
