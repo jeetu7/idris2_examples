@@ -20,4 +20,6 @@ Sequence
 ========
 Follow the programs in the sequence of filename like 1_<filename>.idr and I wish you GodSpeed. May the Force be with you.
 
-
+Note
+====
+Any file which has WIP (ie work-in-progress) written in the first line will not work/compile as expected. Just ignore it (or complete it and send a pull request). 
