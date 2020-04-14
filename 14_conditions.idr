@@ -1,4 +1,3 @@
--- WIP
 module Main
 import Data.Strings
 
